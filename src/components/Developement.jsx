@@ -20,7 +20,7 @@ const Developement = () => {
                   <Card name='[Developer Name]' role='Software Engineer'/>
               </div>
               <div className='flex flex-wrap text-center justify-center p-4 gap-[10vw]'>
-                  <Card name='[Developer Name]' role='Software Engineer'/>
+                  <Card name='[Developer Name]' role='Software Engineer '/>
                   <Card name='[Developer Name]' role='Software Engineer'/>
                   <Card name='[Developer Name]' role='Software Engineer'/>
               </div>
